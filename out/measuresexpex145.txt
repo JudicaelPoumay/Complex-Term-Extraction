@@ -1,0 +1,403 @@
+TScore
+#######################
+
+own estimates of lgd
+available-for-sale financial assets
+for-sale financial assets
+statement of profit or loss
+financial guarantees and other commitments
+off-balance sheet exposures
+financial liabilities measured
+joint ventures and associates
+capital instruments of financial
+implementing regulation (eu)
+long settlement transactions
+traded debt instruments
+group of connected clients
+gross carrying amount
+groups of connected clients
+nature of the immediate counterparty
+organized market options
+obligor grade or pool
+deposits with agreed maturity
+holdings which are treated as reciprocal
+gross synthetic holdings
+significant investment temporary
+gross indirect holdings
+breakdown of loans and advances
+gross direct holdings
+net of short positions
+obligor grades or pools
+commercial immovable property
+defined benefit obligations
+share capital repayable
+
+Dice
+#######################
+
+observed new defaults
+european parliament and of the council
+joint ventures and associates
+groups of connected clients
+implementing regulation (eu)
+obligor grades or pools
+secured by real estate
+organized market options
+group of connected clients
+obligor grade or pool
+long settlement transactions
+commercial immovable property
+nature of the immediate counterparty
+cash flow hedges
+tax from continuing operations
+foreign exchange and gold
+deposits with agreed maturity
+defined benefit obligations
+residential immovable property
+foreign exchange and commodities
+own estimates of lgd
+holdings which are treated as reciprocal
+country of residence of the counterparty
+gross synthetic holdings
+legal references and instructions
+gross indirect holdings
+operating income and expenses
+significant investment temporary
+net defined benefit
+securities or commodities lending
+
+PMI
+#######################
+
+('0.8419458084321414', 'observed new defaults')
+('0.825386995379994', 'european parliament and of the council')
+('0.7497206708778151', 'obligor grades or pools')
+('0.7462839256023371', 'secured by real estate')
+('0.7459669378944966', 'implementing regulation (eu)')
+('0.7408793093758393', 'joint ventures and associates')
+('0.7351353473708208', 'organized market options')
+('0.7347059138544203', 'groups of connected clients')
+('0.7297082169678629', 'tax from continuing operations')
+('0.7291023048493863', 'nature of the immediate counterparty')
+('0.7169273149726504', 'foreign exchange and gold')
+('0.7156736948728768', 'cash flow hedges')
+('0.7105105872554152', 'commercial immovable property')
+('0.7082259365304214', 'residential immovable property')
+('0.7034564416152308', 'group of connected clients')
+('0.6996876795213549', 'obligor grade or pool')
+('0.6941202009864655', 'deposits with agreed maturity')
+('0.6927672563780639', 'holdings which are treated as reciprocal')
+('0.6917612299585146', 'defined benefit obligations')
+('0.6885574731078824', 'foreign exchange and commodities')
+('0.6781029570992376', 'share capital repayable')
+('0.677201281754423', 'long settlement transactions')
+('0.6766607773955451', 'capital conservation buffer')
+('0.6742141378938771', 'securities or commodities lending')
+('0.6733604582466101', 'corporations by nace codes')
+('0.6724993833762174', 'legal references and instructions')
+('0.6721551412909972', 'country of residence of the counterparty')
+('0.6692941252057163', 'correlation trading portfolio')
+('0.6656540830511766', 'own estimates of lgd')
+('0.6656351224194214', 'mkr sa tdi')
+
+Jaccard
+#######################
+
+implementing regulation (eu)
+observed new defaults
+joint ventures and associates
+european parliament and of the council
+corporations by nace codes
+organized market options
+groups of connected clients
+obligor grades or pools
+obligor grade or pool
+group of connected clients
+secured by real estate
+nature of the immediate counterparty
+significant investment temporary
+cash flow hedges
+long settlement transactions
+deposits with agreed maturity
+commercial immovable property
+non-financial corporations by nace
+ecb bsi regulation
+foreign exchange and gold
+defined benefit obligations
+securities or commodities lending
+breakdown of loans and advances
+residential immovable property
+foreign exchange and commodities
+holdings which are treated as reciprocal
+gross synthetic holdings
+operating income and expenses
+gross indirect holdings
+own estimates of lgd
+
+C
+#######################
+
+own estimates of lgd
+available-for-sale financial assets
+for-sale financial assets
+statement of profit or loss
+off-balance sheet exposures
+financial guarantees and other commitments
+financial liabilities measured
+capital instruments of financial
+joint ventures and associates
+implementing regulation (eu)
+traded debt instruments
+long settlement transactions
+gross carrying amount
+group of connected clients
+groups of connected clients
+nature of the immediate counterparty
+net of short positions
+gross direct holdings
+gross indirect holdings
+gross synthetic holdings
+significant investment temporary
+obligor grade or pool
+holdings which are treated as reciprocal
+breakdown of loans and advances
+deposits with agreed maturity
+organized market options
+obligor grades or pools
+commercial immovable property
+correspondent own funds
+net defined benefit
+
+freq
+#######################
+
+joint ventures and associates
+own estimates of lgd
+off-balance sheet exposures
+for-sale financial assets
+statement of profit or loss
+available-for-sale financial assets
+gross carrying amount
+financial guarantees and other commitments
+groups of connected clients
+financial liabilities measured
+group of connected clients
+traded debt instruments
+capital instruments of financial
+long settlement transactions
+implementing regulation (eu)
+obligor grade or pool
+defined benefit obligations
+ecb bsi regulation
+obligor grades or pools
+commercial immovable property
+deducted from own funds
+nature of the immediate counterparty
+mkr sa tdi
+net of short positions
+gross direct holdings
+gross indirect holdings
+gross synthetic holdings
+significant investment temporary
+long and short positions
+applicable accounting standard
+
+CPS
+#######################
+
+available-for-sale financial assets
+for-sale financial assets
+implementing regulation (eu)
+off-balance sheet exposures
+long settlement transactions
+financial liabilities measured
+traded debt instruments
+own estimates of lgd
+gross carrying amount
+organized market options
+commercial immovable property
+gross synthetic holdings
+significant investment temporary
+gross indirect holdings
+defined benefit obligations
+joint ventures and associates
+share capital repayable
+gross direct holdings
+net defined benefit
+correspondent own funds
+observed new defaults
+cash flow hedges
+group of connected clients
+groups of connected clients
+capital conservation buffer
+mkr sa tdi
+trading book positions
+transferred financial assets
+correlation trading portfolio
+qualifying own funds
+
+CTS
+#######################
+
+available-for-sale financial assets
+for-sale financial assets
+off-balance sheet exposures
+financial liabilities measured
+own estimates of lgd
+implementing regulation (eu)
+long settlement transactions
+traded debt instruments
+gross carrying amount
+joint ventures and associates
+capital instruments of financial
+organized market options
+gross synthetic holdings
+significant investment temporary
+gross indirect holdings
+gross direct holdings
+statement of profit or loss
+commercial immovable property
+defined benefit obligations
+share capital repayable
+net defined benefit
+correspondent own funds
+group of connected clients
+groups of connected clients
+financial guarantees and other commitments
+trading book positions
+transferred financial assets
+cash flow hedges
+capital conservation buffer
+mkr sa tdi
+
+CT
+#######################
+
+own estimates of lgd
+available-for-sale financial assets
+for-sale financial assets
+statement of profit or loss
+financial guarantees and other commitments
+off-balance sheet exposures
+financial liabilities measured
+joint ventures and associates
+capital instruments of financial
+implementing regulation (eu)
+long settlement transactions
+traded debt instruments
+group of connected clients
+gross carrying amount
+groups of connected clients
+nature of the immediate counterparty
+organized market options
+obligor grade or pool
+deposits with agreed maturity
+holdings which are treated as reciprocal
+gross synthetic holdings
+significant investment temporary
+gross indirect holdings
+breakdown of loans and advances
+gross direct holdings
+net of short positions
+obligor grades or pools
+commercial immovable property
+defined benefit obligations
+share capital repayable
+
+SD
+#######################
+
+implementing regulation (eu)
+reporting reference date
+countercyclical buffer rate
+traded debt instruments
+mkr sa tdi
+mkr sa sec
+correlation trading portfolio
+expected loss amount
+gross direct holdings
+gross indirect holdings
+gross synthetic holdings
+significant investment temporary
+capital conservation buffer
+long settlement transactions
+commercial immovable property
+observed new defaults
+trading book exposures
+applicable accounting standard
+cash flow hedges
+qualifying own funds
+sec sa template
+consolidated own funds
+trading book positions
+off-balance sheet exposures
+balance sheet netting
+-balance sheet netting
+impaired financial assets
+correspondent own funds
+available-for-sale financial assets
+transferred financial assets
+
+SG
+#######################
+
+references national gaap compatible ifrs
+references national gaap based on bad
+instructions concerning specific positions
+groups classified as held for sale
+original exposure pre conversion
+financial assets held for trading
+accumulated changes in fair value
+financial assets designated at fair value through profit or loss
+relevant national gaap based on bad
+deferred tax assets that rely on future profitability
+countercyclical capital buffer rate
+breakdown of financial assets by instrument and by counterparty
+financial liabilities held for trading
+techniques with substitution effects on the exposure
+financial liabilities designated at fair value through profit or loss
+fair value changes of the hedged
+ifrs or compatible national gaap
+secured by mortgages on immovable property
+interests in unconsolidated structured entities
+permitted offsetting short positions in relation to the direct gross holdings included
+permitted offsetting short positions in relation to the indirect gross holdings included
+permitted offsetting short positions in relation to the synthetic gross holdings included
+allows offsetting short positions in the same underlying exposure
+maturity of the short position matches the maturity of the long position or has a residual maturity of at least
+portfolio hedge of interest rate
+losses on derecognition of financial assets and liabilities not measured at fair value through profit or loss
+cash balances at central banks and other demand deposits
+specific allowances for financial assets
+systemically important institution buffer
+fully adjusted exposure value
+gains or losses on financial assets and liabilities held for trading
+central governments or central banks
+specific countercyclical capital buffer
+defined benefit pension fund assets
+financial assets measured at fair value through profit or loss
+regional governments or local authorities
+internal ratings based approach
+central governments and central banks
+positions subject to capital charge
+actual or contingent obligations to purchase own
+non-trading debt instruments measured at a cost-based method
+gains or losses on financial assets and liabilities designated at fair value through profit or loss
+balance sheet exposures subject
+include the share premium related
+instruments that an institution could be obliged
+include the related share premium accounts
+fit for being assigned to the exposure class
+collateral obtained by taking possession
+losses on derecognition of non-financial assets
+largest exposures to unregulated financial
+exposure amount pre sme-supporting
+deferred tax liabilities associated
+pd assigned to the obligor grade
+reported even when the reporting entity does not hold any positions
+reversal of impairment on financial assets not measured at fair value through profit or loss
+debt instruments at fair value
+non-performing exposures with forbearance measures
+trading financial assets and liabilities
+defined benefit plan assets
+

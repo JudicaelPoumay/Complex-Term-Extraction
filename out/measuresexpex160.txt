@@ -1,0 +1,402 @@
+TScore
+#######################
+
+delegated regulation (eu)
+unsecured wholesale deposits
+deposit guarantee scheme
+legal references and instructions
+exempted from the cap on inflows
+representing claims on or claims
+gross holdings included
+claims on or claims guaranteed
+own debt securities
+reporting reference date
+balance sheet exposures
+multilateral development banks
+own covered bonds
+extremely high liquidity
+available-for-sale financial assets
+for-sale financial assets
+own estimates of lgd
+statement of profit or loss
+direct gross holdings
+lent and the following collateral
+financial guarantees and other commitments
+underlying assets in point
+cap on inflows as specified
+off-balance sheet exposures
+held by the reporting institution
+joint ventures and associates
+groups of connected clients
+non-central government public
+deferred tax liabilities
+organized market options
+
+Dice
+#######################
+
+joint ventures and associates
+unsecured wholesale deposits
+groups of connected clients
+delegated regulation (eu)
+obligor grades or pools
+legal references and instructions
+multilateral development banks
+obtained by taking possession
+representing claims on or claims
+deposit guarantee scheme
+claims on or claims guaranteed
+gross holdings included
+non-central government public
+obligor grade or pool
+master netting agreement
+group of connected clients
+extremely high liquidity
+organized market options
+defined benefit obligations
+claims guaranteed by sovereigns
+defined benefit pension
+exempted from the cap on inflows
+nature of the immediate counterparty
+direct gross holdings
+defined benefit plan
+long settlement transactions
+deferred tax liabilities
+exempted ccp leg
+classified as operational deposits
+statement of profit or loss
+
+PMI
+#######################
+
+('0.7742379210351472', 'joint ventures and associates')
+('0.7719035113667994', 'obligor grades or pools')
+('0.7680642081750644', 'obtained by taking possession')
+('0.7505573994175399', 'nature of the immediate counterparty')
+('0.7431543571634739', 'groups of connected clients')
+('0.7338409454377056', 'non-central government public')
+('0.7333160191153085', 'master netting agreement')
+('0.731986124016754', 'multilateral development banks')
+('0.7159315719777297', 'defined benefit pension')
+('0.7146885184182015', 'organized market options')
+('0.7076522260917623', 'obligor grade or pool')
+('0.7043624654327654', 'defined benefit obligations')
+('0.7014685075948125', 'unsecured wholesale deposits')
+('0.7011344697940417', 'group of connected clients')
+('0.6985549822128663', 'exempted ccp leg')
+('0.6955882462721947', 'defined benefit plan')
+('0.6804340474706988', 'own estimates of lgd')
+('0.6788170172380806', 'representing claims on or claims')
+('0.676825514175021', 'deferred tax liabilities')
+('0.6751785339280499', 'claims guaranteed by sovereigns')
+('0.6739499753185626', 'gross holdings included')
+('0.6727171170675537', 'european financial stability')
+('0.67174701725965', 'claims on or claims guaranteed')
+('0.668931979885989', 'legal references and instructions')
+('0.666365000449318', 'extremely high liquidity')
+('0.6643298863310291', 'domestic currency of the central')
+('0.6618147851045161', 'new funding obtained')
+('0.6604899112809284', 'long settlement transactions')
+('0.6569021056758124', 'reported in the following subcategories')
+('0.6500050661120826', 'delegated regulation (eu)')
+
+Jaccard
+#######################
+
+delegated regulation (eu)
+joint ventures and associates
+unsecured wholesale deposits
+groups of connected clients
+obligor grades or pools
+legal references and instructions
+multilateral development banks
+representing claims on or claims
+direct gross holdings
+gross holdings included
+deposit guarantee scheme
+claims on or claims guaranteed
+organized market options
+obligor grade or pool
+nature of the immediate counterparty
+obtained by taking possession
+non-central government public
+group of connected clients
+exempted from the cap on inflows
+master netting agreement
+defined benefit obligations
+long settlement transactions
+extremely high liquidity
+classified as operational deposits
+defined benefit pension
+new funding obtained
+defined benefit plan
+breakdown of loans and advances
+claims guaranteed by sovereigns
+deferred tax liabilities
+
+C
+#######################
+
+delegated regulation (eu)
+unsecured wholesale deposits
+deposit guarantee scheme
+legal references and instructions
+exempted from the cap on inflows
+gross holdings included
+own debt securities
+reporting reference date
+balance sheet exposures
+multilateral development banks
+own covered bonds
+available-for-sale financial assets
+for-sale financial assets
+extremely high liquidity
+own estimates of lgd
+statement of profit or loss
+direct gross holdings
+off-balance sheet exposures
+held by the reporting institution
+financial guarantees and other commitments
+underlying assets in point
+lent and the following collateral
+cap on inflows as specified
+groups of connected clients
+joint ventures and associates
+deferred tax liabilities
+non-central government public
+organized market options
+group of connected clients
+classified as operational deposits
+
+freq
+#######################
+
+delegated regulation (eu)
+unsecured wholesale deposits
+deposit guarantee scheme
+legal references and instructions
+exempted from the cap on inflows
+balance sheet exposures
+reporting reference date
+ehq covered bonds
+multilateral development banks
+joint ventures and associates
+gross holdings included
+off-balance sheet exposures
+representing claims on or claims
+claims on or claims guaranteed
+own debt securities
+own estimates of lgd
+for-sale financial assets
+groups of connected clients
+available-for-sale financial assets
+own covered bonds
+statement of profit or loss
+extremely high liquidity
+held by the reporting institution
+gross carrying amount
+direct gross holdings
+deducted from own funds
+financial guarantees and other commitments
+group of connected clients
+underlying assets in point
+lent and the following collateral
+
+CPS
+#######################
+
+delegated regulation (eu)
+unsecured wholesale deposits
+deposit guarantee scheme
+gross holdings included
+multilateral development banks
+legal references and instructions
+own debt securities
+reporting reference date
+extremely high liquidity
+balance sheet exposures
+own covered bonds
+available-for-sale financial assets
+for-sale financial assets
+non-central government public
+direct gross holdings
+organized market options
+deferred tax liabilities
+off-balance sheet exposures
+european financial stability
+long settlement transactions
+traded debt instruments
+defined benefit obligations
+financial liabilities measured
+liquid assets template
+own estimates of lgd
+gross carrying amount
+defined benefit pension
+joint ventures and associates
+financial corporate bonds
+groups of connected clients
+
+CTS
+#######################
+
+delegated regulation (eu)
+unsecured wholesale deposits
+deposit guarantee scheme
+legal references and instructions
+gross holdings included
+own debt securities
+reporting reference date
+balance sheet exposures
+multilateral development banks
+own covered bonds
+extremely high liquidity
+available-for-sale financial assets
+for-sale financial assets
+direct gross holdings
+off-balance sheet exposures
+non-central government public
+deferred tax liabilities
+organized market options
+exempted from the cap on inflows
+liquid assets template
+european financial stability
+financial liabilities measured
+own estimates of lgd
+long settlement transactions
+traded debt instruments
+central bank repo
+gross carrying amount
+financial corporate bonds
+underlying assets in point
+defined benefit obligations
+
+CT
+#######################
+
+delegated regulation (eu)
+unsecured wholesale deposits
+deposit guarantee scheme
+legal references and instructions
+exempted from the cap on inflows
+gross holdings included
+own debt securities
+reporting reference date
+balance sheet exposures
+multilateral development banks
+own covered bonds
+extremely high liquidity
+available-for-sale financial assets
+for-sale financial assets
+own estimates of lgd
+statement of profit or loss
+direct gross holdings
+lent and the following collateral
+financial guarantees and other commitments
+underlying assets in point
+cap on inflows as specified
+off-balance sheet exposures
+held by the reporting institution
+joint ventures and associates
+groups of connected clients
+non-central government public
+deferred tax liabilities
+organized market options
+group of connected clients
+classified as operational deposits
+
+SD
+#######################
+
+reporting reference date
+traded debt instruments
+deferred tax liabilities
+defined benefit pension
+multilateral development banks
+direct gross holdings
+gross holdings included
+consolidated own funds
+balance sheet exposures
+long settlement transactions
+off-balance sheet exposures
+delegated regulation (eu)
+available-for-sale financial assets
+transferred financial assets
+net defined benefit
+defined benefit plan
+financial liabilities measured
+defined benefit obligations
+for-sale financial assets
+gross carrying amount
+organized market options
+trading financial assets
+asset backed securities
+master netting agreement
+exempted ccp leg
+non-central government public
+european financial stability
+extremely high liquidity
+financial corporate bonds
+deposit guarantee scheme
+
+SG
+#######################
+
+report net of defaulted exposures
+secured lending and capital market
+references national gaap compatible ifrs
+references national gaap based on bad
+instructions concerning specific positions
+extremely high quality covered bonds
+transferable assets representing claims on or guaranteed
+amount encumbered for a period greater
+measured at fair value through profit or loss
+permitted offsetting short positions in relation
+exposure amount of assets that are exposures
+leverage ratio exposure value of assets that are exposures
+original exposure pre conversion
+groups classified as held for sale
+financial assets held for trading
+financial assets designated at fair value through profit or loss
+accumulated changes in fair value
+group or an institutional protection scheme
+financial assets measured at fair value
+relevant national gaap based on bad
+techniques with substitution effects on the exposure
+entail asset encumbrance for that institution
+loans and advances other than loans on demand
+breakdown of financial assets by instrument and by counterparty
+deferred tax assets that rely on future profitability
+financial liabilities held for trading
+losses on financial assets and liabilities designated at fair value through profit or loss
+specific allowances for financial assets
+regional governments and local authorities
+countercyclical capital buffer rate
+residential mortgage backed instruments
+undrawn committed liquidity facilities
+representing claims on or guaranteed by the central government of a member state
+representing claims on or guaranteed by central banks
+market value of collateral lent
+liquidity value of collateral lent
+systemically important institution buffer
+fully adjusted exposure value
+fair value changes of the hedged
+financial liabilities designated at fair value through profit or loss
+accounting balance sheet value under the applicable accounting framework
+central governments or central banks
+central governments and central banks
+interests in unconsolidated structured entities
+ifrs or compatible national gaap
+secured by mortgages on immovable property in accordance
+internal ratings based approach
+entities and unregulated financial entities
+gains or losses on financial assets and liabilities held for trading
+cash balances at central banks and other demand deposits
+portfolio hedge of interest rate
+performing exposures with forbearance measures
+accounting value assuming no netting
+secured by mortgages on residential property
+contractually available liquid funding
+double counting with liquid assets
+closer of their maturity date and the earliest date at which they can contractually
+partial exemption from the cap on inflows
+

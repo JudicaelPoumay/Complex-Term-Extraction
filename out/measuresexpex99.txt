@@ -1,0 +1,414 @@
+TScore
+#######################
+
+delegated regulation (eu)
+own estimates of lgd
+trading financial assets
+reporting reference period
+gross loss amount
+legal references and instructions
+traded debt instruments
+period with an original maturity
+reporting period with an original
+gross carrying amount
+capital instruments of financial
+nature of the immediate counterparty
+loss adjustments relating
+deducted from own funds
+long settlement transactions
+direct loss recovery
+group of connected clients
+consolidated own funds
+multilateral development banks
+amount of own funds
+qualifying own funds
+non-trading financial assets
+net of short positions
+delta plus approach
+implementing regulation (eu)
+holdings which are treated as reciprocal
+gross synthetic holdings
+gross indirect holdings
+gross direct holdings
+trading book positions
+
+Dice
+#######################
+
+exception of the specifications as regards
+european parliament and of the council
+delegated regulation (eu)
+multilateral development banks
+observed new defaults
+legal references and instructions
+groups of connected clients
+obligor grades or pools
+fully phased-in definition
+group of connected clients
+secured by real estate
+nature of the immediate counterparty
+roll-overs plus new
+master netting agreement
+treated as sovereigns that fall
+foreign exchange and commodities
+long settlement transactions
+internal rating system
+reporting reference period
+period with an original maturity
+own estimates of lgd
+traded debt instruments
+market price uncertainty
+deposit guarantee scheme
+delta plus approach
+reporting period with an original
+claims on or guaranteed by central
+holdings which are treated as reciprocal
+internal assessment approach
+correlation trading portfolio
+
+PMI
+#######################
+
+('0.8257473868642987', 'exception of the specifications as regards')
+('0.8163627511574233', 'european parliament and of the council')
+('0.8094285380816364', 'observed new defaults')
+('0.7762493264374262', 'multilateral development banks')
+('0.7688218906679398', 'fully phased-in definition')
+('0.7611392227338147', 'roll-overs plus new')
+('0.7573490996486095', 'groups of connected clients')
+('0.7468509565231224', 'obligor grades or pools')
+('0.7350823001397881', 'secured by real estate')
+('0.7317482714426954', 'nature of the immediate counterparty')
+('0.7309589429123156', 'legal references and instructions')
+('0.7189375909245546', 'group of connected clients')
+('0.7158928665486555', 'master netting agreement')
+('0.7086008006979484', 'foreign exchange and commodities')
+('0.7082921085570909', 'claims on or guaranteed by central')
+('0.701167667330616', 'replaced by the text set')
+('0.6992508329625989', 'treated as sovereigns that fall')
+('0.6953846954581122', 'delta plus approach')
+('0.6930843826577855', 'market price uncertainty')
+('0.6900447251877967', 'internal rating system')
+('0.6818467616797553', 'correlation trading portfolio')
+('0.6799986903896446', 'delegated regulation (eu)')
+('0.6788637724675568', 'deposit guarantee scheme')
+('0.6781028655181537', 'adjusted value (cvam)')
+('0.675092421572813', 'internal assessment approach')
+('0.6737920947649203', 'securities or commodities lending')
+('0.6734936714171612', 'implementing regulation (eu)')
+('0.6705781304830861', 'double default treatment')
+('0.6655363651361513', 'traded debt instruments')
+('0.66549025516997', 'reporting reference dates')
+
+Jaccard
+#######################
+
+delegated regulation (eu)
+european parliament and of the council
+exception of the specifications as regards
+groups of connected clients
+nature of the immediate counterparty
+multilateral development banks
+legal references and instructions
+obligor grades or pools
+significant investment temporary
+observed new defaults
+group of connected clients
+treated as sovereigns that fall
+foreign exchange and commodities
+fully phased-in definition
+implementing regulation (eu)
+long settlement transactions
+secured by real estate
+master netting agreement
+traded debt instruments
+roll-overs plus new
+deposit guarantee scheme
+delta plus approach
+specified by the instructions for template
+own estimates of lgd
+reporting reference period
+holdings which are treated as reciprocal
+internal rating system
+internal assessment approach
+market price uncertainty
+period with an original maturity
+
+C
+#######################
+
+delegated regulation (eu)
+own estimates of lgd
+trading financial assets
+reporting reference period
+gross loss amount
+legal references and instructions
+traded debt instruments
+capital instruments of financial
+gross carrying amount
+reporting period with an original
+period with an original maturity
+deducted from own funds
+loss adjustments relating
+nature of the immediate counterparty
+long settlement transactions
+direct loss recovery
+consolidated own funds
+group of connected clients
+multilateral development banks
+amount of own funds
+net of short positions
+qualifying own funds
+non-trading financial assets
+implementing regulation (eu)
+expected loss amount
+gross direct holdings
+gross indirect holdings
+gross synthetic holdings
+delta plus approach
+holdings which are treated as reciprocal
+
+freq
+#######################
+
+delegated regulation (eu)
+reporting reference period
+own estimates of lgd
+gross loss amount
+trading financial assets
+traded debt instruments
+legal references and instructions
+reporting reference date
+deducted from own funds
+gross carrying amount
+capital instruments of financial
+securities financing transactions
+reporting period with an original
+period with an original maturity
+consolidated own funds
+long settlement transactions
+loss adjustments relating
+direct loss recovery
+nature of the immediate counterparty
+groups of connected clients
+group of connected clients
+multilateral development banks
+net of short positions
+master netting agreement
+obligor grades or pools
+long and short positions
+market price uncertainty
+amount of own funds
+qualifying own funds
+non-trading financial assets
+
+CPS
+#######################
+
+delegated regulation (eu)
+reporting reference period
+traded debt instruments
+trading financial assets
+gross loss amount
+multilateral development banks
+gross carrying amount
+own estimates of lgd
+loss adjustments relating
+long settlement transactions
+direct loss recovery
+consolidated own funds
+legal references and instructions
+delta plus approach
+implementing regulation (eu)
+master netting agreement
+gross synthetic holdings
+gross indirect holdings
+qualifying own funds
+internal assessment approach
+non-trading financial assets
+capital conservation buffer
+gross direct holdings
+trading book positions
+correspondent own funds
+expected loss amount
+reporting reference date
+observed new defaults
+internal rating system
+fully phased-in definition
+
+CTS
+#######################
+
+delegated regulation (eu)
+trading financial assets
+reporting reference period
+gross loss amount
+traded debt instruments
+own estimates of lgd
+gross carrying amount
+loss adjustments relating
+long settlement transactions
+direct loss recovery
+consolidated own funds
+legal references and instructions
+multilateral development banks
+qualifying own funds
+non-trading financial assets
+capital instruments of financial
+delta plus approach
+implementing regulation (eu)
+gross synthetic holdings
+gross indirect holdings
+gross direct holdings
+trading book positions
+expected loss amount
+deducted from own funds
+master netting agreement
+internal assessment approach
+capital conservation buffer
+correspondent own funds
+reporting reference date
+off-balance sheet exposures
+
+CT
+#######################
+
+delegated regulation (eu)
+own estimates of lgd
+trading financial assets
+reporting reference period
+gross loss amount
+legal references and instructions
+traded debt instruments
+period with an original maturity
+reporting period with an original
+gross carrying amount
+capital instruments of financial
+nature of the immediate counterparty
+loss adjustments relating
+deducted from own funds
+long settlement transactions
+direct loss recovery
+group of connected clients
+consolidated own funds
+multilateral development banks
+amount of own funds
+qualifying own funds
+non-trading financial assets
+net of short positions
+delta plus approach
+implementing regulation (eu)
+holdings which are treated as reciprocal
+gross synthetic holdings
+gross indirect holdings
+gross direct holdings
+trading book positions
+
+SD
+#######################
+
+implementing regulation (eu)
+delegated regulation (eu)
+countercyclical buffer rate
+traded debt instruments
+mkr sa tdi
+correlation trading portfolio
+multilateral development banks
+internal assessment approach
+expected loss amount
+gross direct holdings
+gross indirect holdings
+gross synthetic holdings
+significant investment temporary
+capital conservation buffer
+consolidated own funds
+qualifying own funds
+adjusted value (cvam)
+securities financing transactions
+long settlement transactions
+internal rating system
+double default treatment
+observed new defaults
+trading book exposures
+exposure value subject
+gross loss amount
+loss adjustments relating
+direct loss recovery
+delta plus approach
+net long positions
+net short positions
+
+SG
+#######################
+
+report net of defaulted exposures
+qualifying for differentiated capital treatment
+exposure amount of assets that are exposures
+instructions concerning specific positions
+leverage ratio exposure value of assets that are exposures
+original exposure pre conversion
+amount of cash outflows reported
+deferred tax assets that rely on future profitability
+amount of cash inflows reported
+national gaap based on bad
+central governments and central banks
+regional governments or local authorities
+countercyclical capital buffer rate
+defined benefit pension fund assets
+fully adjusted exposure value
+accounting balance sheet value under the applicable accounting framework
+assets representing claims on or guaranteed
+central governments or central banks
+entities and unregulated financial entities
+secured by mortgages on immovable property in accordance
+number of events subject to loss adjustments
+actual or contingent obligations to purchase own
+permitted offsetting short positions in relation to the direct gross holdings included
+permitted offsetting short positions in relation to the indirect gross holdings included
+permitted offsetting short positions in relation to the synthetic gross holdings included
+systemically important institution buffer
+allows offsetting short positions in the same underlying exposure
+maturity of the short position matches the maturity of the long position or has a residual maturity of at least
+mitigation techniques with substitution effects on the exposure
+positions subject to capital charge
+account the derogation laid down in chapters
+accounting value assuming no netting
+deferred tax liabilities associated
+fair-valued assets and liabilities included
+financial assets at fair value
+general governments to other exposure classes
+substitution effects pre conversion
+qualifying for the differentiated capital treatment in accordance
+ciu shares or units in accordance
+reported in the below subcategories corresponding to their underlying assets
+specific countercyclical capital buffer
+deferred tax assets that are dependent on future profitability
+exposure amount pre sme-supporting
+balance sheet exposures subject
+pd assigned to the obligor grade or pool
+financial assets designated at fair value through profit or loss
+financial assets measured at fair value through profit or loss
+include the share premium related
+instruments that an institution could be obliged
+include the related share premium accounts
+fit for being assigned to the exposure class
+exposures in the form of covered bonds
+institution has assigned all its losses either to a business line
+regional governments and local authorities not treated as sovereigns
+secured lending and capital market
+capital instruments and subordinated loans
+internal ratings based approach
+identified at the level of a member state
+related retained earnings and share premium accounts
+exposure net of value adjustments
+portfolio hedge of interest rate
+exposure value of off-balance sheet
+reported even when the reporting entity does not hold any positions
+absolute value of fair-valued assets and liabilities corresponding
+thus that can be identified as addressing the same source of valuation uncertainty
+exempted ccp leg of client-cleared
+secured by mortgages on residential property
+amount of funding maturing on the relevant day of the reporting period
+amount of funding rolled-over on the relevant day of the reporting period
+amount of new funding obtained on the relevant day of the reporting period
+
