@@ -1,4 +1,4 @@
-# Statistical approach to arbitrarily long term extractionfrom domain specific texts
+# Statistical approach to arbitrarily long term extraction from domain specific texts
 
 ## Introduction
 This repo contains experimental code for complex terminology extraction.
