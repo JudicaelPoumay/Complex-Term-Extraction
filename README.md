@@ -1,4 +1,4 @@
-# TBD
+# Statistical approach to arbitrarily long term extractionfrom domain specific texts
 
 ## Introduction
 This repo contains experimental code for complex terminology extraction.
